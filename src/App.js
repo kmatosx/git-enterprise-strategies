@@ -5,9 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={gatorLogo} className="App-logo" alt="logo" />
+
+        <img src={logo} className="App-logo" alt="logo" />
         <p> Hello World! </p>
         <p> My name is Kathy Matos and this is my project </p>
+        <p> Hello World! This is our team project.</p>	
+
       </header>
     </div>
   );
